@@ -1,2 +1,2 @@
-<h3>repo link:-</h3><br>
-https://aaqibbashirmir.github.io/major-project/
+<h3>repo link:-</h3>https://aaqibbashirmir.github.io/major-project/
+
